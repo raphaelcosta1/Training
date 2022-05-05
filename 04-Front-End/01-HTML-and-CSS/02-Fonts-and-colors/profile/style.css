@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.maincard {
+  background: #90e0ef;
+  color: #3d3c33;
+  font-family: 'Itim', cursive, raleway;
+  font-size: 19px;
+  font-weight: lighter;
+  }
+.regular-card {
+    background: #90e0ef;
+    color: #3d3c33;
+    font-family: 'Itim', cursive, raleway;
+    font-size: 17px;
+    font-weight: lighter;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(255,255,255,0.1);
+    border-radius: 5px; */
+    margin: 20px 0px; */
+    text-align: center;
+    box-shadow: 20px;
+    }
+h1 {
+  background: #28abb9;
+  color: #f1d452;
+  font-family: 'Itim', cursive, raleway;
+  font-size: 17px;
+  font-weight: lighter;
+  }
+h2 {
+  background: #28abb9;
+  color: #f1d452;
+  font-family: 'Itim', cursive, raleway;
+  font-size: 15px;
+  font-weight: lighter;
+  }
+h3 {
+  background: #28abb9;
+  color: #f1d452;
+  font-family: 'Itim', cursive, raleway;
+  font-size: 15px;
+  font-weight: lighter;
+  }
+
+
+div {
+  border-top: 1px solid  #ffc93c;
+  border-right: 1px solid #ffc93c;
+  border-bottom: 1px solid #ffc93c;
+  border-left: 1px solid #ffc93c;
+}
+
+a:hover
+  /* Body
+Pick a nice background-color, font-family, color, font-size and line-height for the 
+<body>. Setting these font rules at the body-level will apply them on all basic text tags 
+(<p>, <li>, etc.).
+
+Headers
+Choose a nice color and font-family for headers (<h1>, <h2>, <h3>)
+Choose harmonious font-size and line-height for headers
+Hint: small headers are more elegant. If you check out any website (Medium, Airbnb, etc.),
+ you’ll see that the font-size of their headers is quite small. */

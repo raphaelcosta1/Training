@@ -1,0 +1,24 @@
+/* Your card CSS file */
+
+.card-category {
+  color: white;
+  padding: 15px 25px;
+  position: relative;
+  background: #5c969e;
+  border: 2px #a6f6f1 solid;
+  }
+.card-product {
+  color: white;
+  padding: 15px 25px;
+  position: relative;
+  background: #008891;
+  border: 2px #a6f6f1 solid;
+  }
+.card-trip {
+  position: relative
+  color: white;
+  padding: 15px 25px;
+  position: relative;
+  background: #0278ae;
+  border: 2px #a6f6f1 solid;
+  }

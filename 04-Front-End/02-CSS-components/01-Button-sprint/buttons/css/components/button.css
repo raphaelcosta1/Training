@@ -1,0 +1,30 @@
+/* Your button CSS file */
+.btn-medium {
+  color: #999999;
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+  }
+.btn-treehouse {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s
+  }
+.btn-google {
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  background: #4C8FFB;
+  border: 2px #3079ED solid;
+  box-shadow: inset 0 1px 0 #80B0FB;
+  }
+.btn:hover {
+  border: 1px #6c93e6 solid;
+  box-shadow: 0 1px 1px #EAEAEA, inset 0 1px 0 #5A94F1;
+  background: #1a2b47;
+}
